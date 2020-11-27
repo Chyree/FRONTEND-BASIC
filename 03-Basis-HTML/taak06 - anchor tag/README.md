@@ -61,7 +61,7 @@ Als je op deze link klikt dan wordt pagina `link_naar_andere_pagina.html` opgevr
 - [Een link maken - Les 5 -](https://www.youtube.com/watch?v=ywTp238aqSE)
 
 
-<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+<!---
 ------------------ ------------------------------ ------------
 ------------------ eagle ref:43167695
 ------------------ ------------------------------ ------------
